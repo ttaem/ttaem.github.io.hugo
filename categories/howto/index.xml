@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on My Home</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on My Home</description>
+    <title>HowTo on My Home</title>
+    <link>/categories/howto/</link>
+    <description>Recent content in HowTo on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/blog/how-to-developer-mode/</guid>
       <description>시작 시장에서 Chromebook 과 그 안에 탑재된 Chrome OS 가 주목받는 이유는 그것의 단순함 때문이다. 또한, 최근에 Android App 과 Native Linux 를 지원함에 따라 점점 강력해지고 있다. 심지어 요즘 들리는 소문에 의하면 윈도우즈 듀얼 부팅이 가능한 Chromebook 이 출시된다고도 한다. 또한, Chrome OS 는 강력한 보안 기능을 가지고 있어 라이트 PC 유저들이 특별한 관리 없이 사용하기에 적합하다.
 이러한 특징들은 도리어 개발자들이 접근하기에는 불편하고 재미없는 부분이 될 수도 있는데, 다행스럽게도 Chrome OS 는 개발자 모드 를 활성화할 수 있는 방법을 제공한다.</description>
-    </item>
-    
-    <item>
-      <title>새로운 사이트를 만들었습니다.</title>
-      <link>/blog/creating-a-new-blog/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creating-a-new-blog/</guid>
-      <description>Introduction Hugo 를 사용하여 새로운 사이트를 만들었습니다. 호스팅은 github.io 를 이용하였으며, 포스팅은 회사 서버 및 groom.io 의 클라우드 서버를 이용하였습니다.
-먼저 Chromebook 에 대한 포스팅을 진행하며, 업무 도중 알게된 팁 위주로 글을 올릴 것 같습니다.</description>
     </item>
     
   </channel>
