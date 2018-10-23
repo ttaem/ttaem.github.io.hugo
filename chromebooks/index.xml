@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chromebooks on My Home</title>
-    <link>/chromebooks/</link>
+    <link>http://www.homegateway.kr/chromebooks/</link>
     <description>Recent content in Chromebooks on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/chromebooks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.homegateway.kr/chromebooks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>새로운 사이트를 만들었습니다.</title>
-      <link>/chromebooks/creating-a-new-blog/</link>
+      <link>http://www.homegateway.kr/chromebooks/creating-a-new-blog/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/chromebooks/creating-a-new-blog/</guid>
+      <guid>http://www.homegateway.kr/chromebooks/creating-a-new-blog/</guid>
       <description>Introduction Chromebook folder</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>/chromebooks/first-post/</link>
+      <link>http://www.homegateway.kr/chromebooks/first-post/</link>
       <pubDate>Fri, 28 Sep 2018 14:35:00 +0900</pubDate>
       
-      <guid>/chromebooks/first-post/</guid>
+      <guid>http://www.homegateway.kr/chromebooks/first-post/</guid>
       <description>크롬북에 대하여 적도록 하겠습니다.</description>
     </item>
     

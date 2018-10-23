@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Home</title>
-    <link>/categories/</link>
+    <link>http://www.homegateway.kr/categories/</link>
     <description>Recent content in Categories on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.homegateway.kr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HowTo</title>
-      <link>/categories/howto/</link>
+      <link>http://www.homegateway.kr/categories/howto/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/howto/</guid>
+      <guid>http://www.homegateway.kr/categories/howto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>/categories/info/</link>
+      <link>http://www.homegateway.kr/categories/info/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/info/</guid>
+      <guid>http://www.homegateway.kr/categories/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>/categories/life/</link>
+      <link>http://www.homegateway.kr/categories/life/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/life/</guid>
+      <guid>http://www.homegateway.kr/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model</title>
-      <link>/categories/model/</link>
+      <link>http://www.homegateway.kr/categories/model/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/model/</guid>
+      <guid>http://www.homegateway.kr/categories/model/</guid>
       <description></description>
     </item>
     

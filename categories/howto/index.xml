@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HowTo on My Home</title>
-    <link>/categories/howto/</link>
+    <link>http://www.homegateway.kr/categories/howto/</link>
     <description>Recent content in HowTo on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.homegateway.kr/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>크롬북에서 개발자 모드 활성화/비활성화 방법</title>
-      <link>/blog/how-to-developer-mode/</link>
+      <link>http://www.homegateway.kr/blog/how-to-developer-mode/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/how-to-developer-mode/</guid>
+      <guid>http://www.homegateway.kr/blog/how-to-developer-mode/</guid>
       <description>시작 시장에서 Chromebook 과 그 안에 탑재된 Chrome OS 가 주목받는 이유는 그것의 단순함 때문이다. 또한, 최근에 Android App 과 Native Linux 를 지원함에 따라 점점 강력해지고 있다. 심지어 요즘 들리는 소문에 의하면 윈도우즈 듀얼 부팅이 가능한 Chromebook 이 출시된다고도 한다. 또한, Chrome OS 는 강력한 보안 기능을 가지고 있어 라이트 PC 유저들이 특별한 관리 없이 사용하기에 적합하다.
 이러한 특징들은 도리어 개발자들이 접근하기에는 불편하고 재미없는 부분이 될 수도 있는데, 다행스럽게도 Chrome OS 는 개발자 모드 를 활성화할 수 있는 방법을 제공한다.</description>
     </item>
