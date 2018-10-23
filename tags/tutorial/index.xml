@@ -6,10 +6,19 @@
     <description>Recent content in tutorial on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>새로운 사이트를 만들었습니다.</title>
+      <link>/chromebooks/creating-a-new-blog/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/chromebooks/creating-a-new-blog/</guid>
+      <description>Introduction Chromebook folder</description>
+    </item>
     
     <item>
       <title>새로운 사이트를 만들었습니다.</title>
