@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Info on My Home</title>
-    <link>http://www.homegateway.kr/categories/info/</link>
+    <link>/categories/info/</link>
     <description>Recent content in Info on My Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.homegateway.kr/categories/info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>크롬북에서 리눅스 구동</title>
-      <link>http://www.homegateway.kr/blog/chromebook-can-linux/</link>
+      <link>/chromebooks/chromebook-can-linux/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.homegateway.kr/blog/chromebook-can-linux/</guid>
+      <guid>/chromebooks/chromebook-can-linux/</guid>
       <description>구글은 최근에 Chrome OS 에 놀랄만한 작업을 하였다. Chrome OS 상에서 Android App 을 구동할 수 있게 한 것이다. 이것은 사람들이 사용하는 스마트 폰이나 태블릿 상에서 안드로이드 앱을 깔아 실행시키듯이 동일하게 크롬북에서도 동일하게 할 수 있다는 의미이다. 이로 인해 크롬북은 더욱 강력해졌다. 그렇지만, 일부 사람들은 이것만으로 충분하다고 생각하지 않았다. 물론 보통 사람들에게는 안드로이드 앱이 구동되는 것만으로도 충분히 크롬북을 선택할 장점이 되었지만, 보다 강력한 데스크탑의 어플리케이션을 설치하고 사용하기를 원하는 사람들이 있었다.</description>
     </item>
     

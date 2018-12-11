@@ -3,101 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.homegateway.kr/blog/my-preferable-chromebooks/</loc>
+    <loc>/tech/gocui-terminal-programing-with-golang/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chromebooks/my-preferable-chromebooks/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/chromebooks/creating-a-new-blog/</loc>
-    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homegateway.kr/blog/chromebook-can-linux/</loc>
+    <loc>/chromebooks/chromebook-can-linux/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/blog/how-to-developer-mode/</loc>
+    <loc>/chromebooks/how-to-developer-mode/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/chromebooks/first-post/</loc>
-    <lastmod>2018-09-28T14:35:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homegateway.kr/posts/my-first-post/</loc>
-    <lastmod>2018-09-28T10:06:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homegateway.kr/blog/creating-a-new-blog/</loc>
+    <loc>/chromebooks/first-post/</loc>
     <lastmod>2018-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/blog/</loc>
+    <loc>/life/creating-a-new-blog/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chromebooks/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.homegateway.kr/chromebooks/</loc>
-    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.homegateway.kr/categories/howto/</loc>
+    <loc>/categories/howto/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/categories/info/</loc>
+    <loc>/categories/info/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/categories/life/</loc>
+    <loc>/life/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/life/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/model/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/categories/model/</loc>
-    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/</loc>
-    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/posts/</loc>
-    <lastmod>2018-09-28T10:06:42+09:00</lastmod>
+    <loc>/tech/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/tags/</loc>
+    <loc>/categories/golang/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.homegateway.kr/tags/tutorial/</loc>
-    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+    <loc>/tags/golang/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2018-12-10T04:03:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

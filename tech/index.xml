@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on My Home</title>
+    <link>/tech/</link>
+    <description>Recent content in Tech on My Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 04:03:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gocui 를 이용한 터미널 프로그래밍</title>
+      <link>/tech/gocui-terminal-programing-with-golang/</link>
+      <pubDate>Mon, 10 Dec 2018 04:03:34 +0000</pubDate>
+      
+      <guid>/tech/gocui-terminal-programing-with-golang/</guid>
+      <description> 모든 언어가 그렇듯 문법 공부만으로는 그 언어를 제대로 사용할 수 없다. 실력 향상을 위하여 구현이 필요한 상황. 간단하면서도 재미있게 배우기 위해 ui 구현을 선택했고 쉘의 확장 용도로 간단한 cli 기능들을 구현할 예정이다.
+gocui 의 소개 github 에 gocui 의 라이브러리 및 기본 예제 그리고 이 라이브러리를 사용한 몇몇 사이트가 소개되어 있다.
+몇몇 화면들 직접 예제 몇개를 실행해 보았다. </description>
+    </item>
+    
+  </channel>
+</rss>
